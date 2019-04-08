@@ -1,0 +1,148 @@
+[20-Sep-2016 07:42:33 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 07:42:39 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 07:42:43 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 07:43:35 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 07:44:07 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 07:47:11 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 07:47:36 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 07:48:06 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 08:14:53 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 08:41:48 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 08:44:32 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 08:47:55 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 08:48:18 UTC] PHP Fatal error:  Call to a member function increment() on a non-object in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/TestController.php on line 842
+[20-Sep-2016 08:50:30 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 08:56:14 UTC] PHP Fatal error:  Class 'App\GroupMessage' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 193
+[20-Sep-2016 09:07:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 183
+[20-Sep-2016 09:07:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 183
+[22-Sep-2016 12:26:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cloudelabstech/public_html/elearn/app/Http/routes.php on line 97
+[22-Sep-2016 12:26:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cloudelabstech/public_html/elearn/app/Http/routes.php on line 97
+[22-Sep-2016 12:27:24 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiController::mygroups() in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 219
+[23-Sep-2016 12:09:37 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\MySqlConnection as array in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 280
+[23-Sep-2016 12:09:43 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\MySqlConnection as array in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 280
+[24-Sep-2016 01:49:35 UTC] PHP Fatal error:  Call to a member function increment() on a non-object in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 93
+[24-Sep-2016 01:51:00 UTC] PHP Fatal error:  Call to a member function increment() on a non-object in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 93
+[24-Sep-2016 08:09:20 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 316
+[24-Sep-2016 08:09:56 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 316
+[24-Sep-2016 08:10:05 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 316
+[24-Sep-2016 08:36:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 255
+[24-Sep-2016 08:37:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 255
+[24-Sep-2016 09:21:23 UTC] PHP Fatal error:  Call to a member function increment() on a non-object in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 93
+[24-Sep-2016 09:25:08 UTC] PHP Fatal error:  Call to a member function decrement() on a non-object in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 100
+[24-Sep-2016 10:25:07 UTC] PHP Fatal error:  Call to a member function increment() on a non-object in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 93
+[24-Sep-2016 13:10:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 369
+[26-Sep-2016 13:22:12 UTC] PHP Parse error:  syntax error, unexpected 'find' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 194
+[26-Sep-2016 13:22:18 UTC] PHP Parse error:  syntax error, unexpected 'find' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 194
+[26-Sep-2016 13:23:02 UTC] PHP Parse error:  syntax error, unexpected 'find' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 195
+[26-Sep-2016 13:45:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 88
+[27-Sep-2016 12:54:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 289
+[27-Sep-2016 12:54:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 289
+[27-Sep-2016 12:54:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 289
+[29-Sep-2016 11:22:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 197
+[29-Sep-2016 11:22:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 197
+[29-Sep-2016 11:22:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 197
+[29-Sep-2016 11:28:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 200
+[29-Sep-2016 11:28:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 200
+[30-Sep-2016 06:49:43 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 218
+[30-Sep-2016 06:49:50 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 218
+[30-Sep-2016 06:50:09 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 218
+[30-Sep-2016 07:01:00 UTC] PHP Parse error:  syntax error, unexpected ''vi' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 511
+[30-Sep-2016 07:01:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Students' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 221
+[30-Sep-2016 07:01:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Students' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 221
+[30-Sep-2016 07:41:09 UTC] PHP Parse error:  syntax error, unexpected ''admin/' (T_ENCAPSED_AND_WHITESPACE) in /home/cloudelabstech/public_html/elearn/app/Http/routes.php on line 122
+[30-Sep-2016 07:41:14 UTC] PHP Parse error:  syntax error, unexpected ''admin/' (T_ENCAPSED_AND_WHITESPACE) in /home/cloudelabstech/public_html/elearn/app/Http/routes.php on line 122
+[30-Sep-2016 07:41:34 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 228
+[30-Sep-2016 07:41:36 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 228
+[30-Sep-2016 11:03:45 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 216
+[30-Sep-2016 11:03:50 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 216
+[30-Sep-2016 12:43:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 485
+[01-Oct-2016 06:06:56 UTC] PHP Fatal error:  Call to a member function increment() on a non-object in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 99
+[01-Oct-2016 06:10:43 UTC] PHP Fatal error:  Call to a member function increment() on a non-object in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 99
+[01-Oct-2016 06:12:14 UTC] PHP Fatal error:  Call to a member function increment() on a non-object in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 99
+[03-Oct-2016 12:53:48 UTC] PHP Parse error:  syntax error, unexpected 'publi' (T_STRING), expecting function (T_FUNCTION) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/TestController.php on line 445
+[04-Oct-2016 12:31:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 447
+[04-Oct-2016 13:07:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 389
+[04-Oct-2016 13:13:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 448
+[04-Oct-2016 13:48:26 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/TestController.php on line 799
+[05-Oct-2016 09:27:12 UTC] PHP Parse error:  syntax error, unexpected 'pulic' (T_STRING), expecting function (T_FUNCTION) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 393
+[05-Oct-2016 09:27:18 UTC] PHP Parse error:  syntax error, unexpected 'pulic' (T_STRING), expecting function (T_FUNCTION) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 393
+[05-Oct-2016 09:27:24 UTC] PHP Parse error:  syntax error, unexpected 'pulic' (T_STRING), expecting function (T_FUNCTION) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 393
+[05-Oct-2016 13:00:46 UTC] PHP Fatal error:  Class 'App\Course' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 680
+[07-Oct-2016 08:15:20 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 319
+[07-Oct-2016 08:15:25 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 319
+[07-Oct-2016 08:37:13 UTC] PHP Parse error:  syntax error, unexpected ''user' (T_ENCAPSED_AND_WHITESPACE) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 451
+[13-Oct-2016 10:31:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/cloudelabstech/public_html/elearn/app/Http/routes.php on line 49
+[13-Oct-2016 10:31:11 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/cloudelabstech/public_html/elearn/app/Http/routes.php on line 49
+[13-Oct-2016 10:31:13 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/cloudelabstech/public_html/elearn/app/Http/routes.php on line 49
+[13-Oct-2016 12:07:45 UTC] PHP Parse error:  syntax error, unexpected ''gm.group_cou' (T_ENCAPSED_AND_WHITESPACE) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 453
+[13-Oct-2016 12:13:11 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 515
+[13-Oct-2016 12:13:15 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 515
+[14-Oct-2016 07:55:27 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/TestController.php on line 1403
+[14-Oct-2016 08:01:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/Database/Grammar.php on line 39
+[14-Oct-2016 08:07:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 202
+[14-Oct-2016 08:38:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19106452 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2016 08:38:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19106452 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2016 08:50:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/TestController.php on line 2611
+[14-Oct-2016 09:03:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:04:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:19:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:19:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:19:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:19:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:20:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:20:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:21:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:21:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:22:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:22:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:22:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19409554 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:31:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19410117 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:31:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19410117 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:32:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19410117 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:32:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19410117 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:37:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19410117 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[14-Oct-2016 09:37:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19410117 bytes) in /home/cloudelabstech/public_html/elearn/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 646
+[17-Oct-2016 06:44:26 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 485
+[17-Oct-2016 06:44:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 485
+[18-Oct-2016 10:36:24 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 926
+[18-Oct-2016 10:36:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 926
+[18-Oct-2016 11:11:05 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiController::masterinvitelist() in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 971
+[18-Oct-2016 11:11:08 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiController::masterinvitelist() in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 971
+[18-Oct-2016 13:36:34 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiController::mastercreateclass() in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 998
+[18-Oct-2016 13:36:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiController::mastercreateclass() in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 998
+[18-Oct-2016 13:36:44 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiController::mastercreateclass() in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 998
+[18-Oct-2016 13:39:12 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiController::mastercreateclass() in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 998
+[18-Oct-2016 13:39:15 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiController::mastercreateclass() in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 998
+[22-Oct-2016 08:21:35 UTC] PHP Parse error:  syntax error, unexpected '$posts' (T_VARIABLE) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 778
+[22-Oct-2016 08:21:38 UTC] PHP Parse error:  syntax error, unexpected '$posts' (T_VARIABLE) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 778
+[22-Oct-2016 08:21:46 UTC] PHP Parse error:  syntax error, unexpected '$posts' (T_VARIABLE) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 778
+[22-Oct-2016 08:21:49 UTC] PHP Parse error:  syntax error, unexpected '$posts' (T_VARIABLE) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 778
+[25-Oct-2016 12:31:20 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Groucourse' not found in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 359
+[25-Oct-2016 12:57:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 427
+[26-Oct-2016 10:20:46 UTC] PHP Parse error:  syntax error, unexpected '$new' (T_VARIABLE) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 580
+[26-Oct-2016 10:20:50 UTC] PHP Parse error:  syntax error, unexpected '$new' (T_VARIABLE) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 580
+[26-Oct-2016 10:28:28 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 597
+[26-Oct-2016 10:28:32 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 597
+[26-Oct-2016 10:56:01 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 590
+[26-Oct-2016 10:56:05 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 590
+[26-Oct-2016 12:48:46 UTC] PHP Parse error:  syntax error, unexpected '_' (T_STRING) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 588
+[26-Oct-2016 12:48:50 UTC] PHP Parse error:  syntax error, unexpected '_' (T_STRING) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 588
+[27-Oct-2016 09:55:33 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 1090
+[27-Oct-2016 09:55:38 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 1090
+[27-Oct-2016 09:55:41 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 1090
+[27-Oct-2016 12:26:27 UTC] PHP Parse error:  syntax error, unexpected ''crea' (T_ENCAPSED_AND_WHITESPACE) in /home/cloudelabstech/public_html/elearn/app/Http/Controllers/ApiController.php on line 421
+[26-Aug-2017 12:29:48 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 12:30:16 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 12:30:19 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 12:30:34 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 12:30:38 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 12:30:42 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 12:31:16 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 12:31:33 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 13:28:03 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 13:28:40 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 13:29:21 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 13:31:17 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[26-Aug-2017 13:33:15 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[28-Aug-2017 10:21:08 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
+[28-Aug-2017 10:35:19 UTC] PHP Fatal error:  Class 'App\Privilege' not found in /home/cloudelabstech/public_html/elearn/storage/framework/views/fad6086539e1b51688e6dddf084f185021b053d8.php on line 40
